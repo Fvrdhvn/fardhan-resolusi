@@ -1,4 +1,7 @@
 Rencana Impian Fardhan
 -Menjadi Frontend Developer
+ *HTML
+ *CSS
+ *Javascript
 -Belajar Backend
 -Menjadi Fullstack Developer
