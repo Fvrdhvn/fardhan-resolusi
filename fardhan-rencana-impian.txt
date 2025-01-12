@@ -4,5 +4,8 @@ Rencana Impian Fardhan
  *CSS
  *Javascript
 -Belajar UI/UX
+ *Pakai Sketch
+ *Coba Figma
 -Belajar Backend
--Menjadi Fullstack Developer
+ *Pelajari Laravel
+ *Coba Codeigniter
