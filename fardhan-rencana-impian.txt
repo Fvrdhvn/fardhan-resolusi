@@ -8,4 +8,6 @@ Rencana Impian Fardhan
 -Belajar Backend
  *Belajar PHP
  *Coba Framework Codeigniter
+ *Coba Framework Laravel
 -Menjadi Fullstack Developer
+
